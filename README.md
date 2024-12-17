@@ -1,1 +1,1 @@
-# Weather-planner-2
+# Weather-planner
